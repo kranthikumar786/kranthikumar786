@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Low Level Design for BookMyShow/others**
 
-- 📝 I regularly write articles on [DSA & Problem Solving](DSA & Problem Solving)
+- 📝 I regularly write articles on [DSA & Problem Solving]
 
 - 💬 Ask me about **Chess, DSA,LLD,HLD**
 
