@@ -16,7 +16,6 @@
 <a href="https://medium.com/@onlinecourses143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@onlinecourses143" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/onlinecourses143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="onlinecourses143" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user_143" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/htmlprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="htmlprogrammer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
