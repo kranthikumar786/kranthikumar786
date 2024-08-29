@@ -7,7 +7,7 @@
      - backend(java spring/springboot) (https://moonshot.scaler.com/s/sl/EfYfTiYac1)
      - Low Level Design (https://moonshot.scaler.com/s/sl/f8M8o-dxz9)
 
-- 📝 I regularly write articles on [DSA & Problem Solving]
+- 📝 I do write articles on [DSA & Problem Solving] at Medium(https://medium.com/@onlinecourses143)
 
 - 💬 Let's Talk  about **Chess, DSA,LLD,HLD,Sports**
 
