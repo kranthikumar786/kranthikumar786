@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Low Level Design for BookMyShow/others**
 -  The following SKILLS i have cleared & Certified by industry experts (Interviewersfrom Microsoft, MakemyTrip companies) at Scaler 
-      Data Structures&Algorithms (https://moonshot.scaler.com/s/sl/6FmeUpCpQG)
+     -  Data Structures&Algorithms (https://moonshot.scaler.com/s/sl/6FmeUpCpQG)
 
 
 - 📝 I regularly write articles on [DSA & Problem Solving]
