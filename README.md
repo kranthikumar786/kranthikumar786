@@ -4,6 +4,9 @@
 - 🔭 I’m currently working on  Personal Project called [BookMyShow(BackEnd)](https://github.com/kranthikumar786/Book-My-Show)
 
 - 🌱 I’m currently learning **Low Level Design for BookMyShow/others**
+-  The following SKILLS i have cleared & Certified by industry experts (Interviewersfrom Microsoft, MakemyTrip companies) at Scaler 
+      Data Structures&Algorithms (https://moonshot.scaler.com/s/sl/6FmeUpCpQG)
+
 
 - 📝 I regularly write articles on [DSA & Problem Solving]
 
