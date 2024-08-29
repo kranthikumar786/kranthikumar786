@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kranthi Kumar</h1>
 <h3 align="center">A passionate BackEnd Engineer | Full Stack Engineer from India</h3>
 
-- 🔭 I’m currently working on  Personal Project called [BookMyShow(BackEnd)](https://github.com/kranthikumar786/Book-My-Show)
-
 -  I have been certified in the following skills by industry experts, including interviewers from companies  Microsoft and MakeMyTrip, through Scaler 
      -  Data Structures&Algorithms (https://moonshot.scaler.com/s/sl/6FmeUpCpQG)
      - Java (https://moonshot.scaler.com/s/sl/wb6Pz9ZTa1) 
