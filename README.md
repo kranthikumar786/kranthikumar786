@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kranthi Kumar</h1>
 <h3 align="center">A passionate BackEnd Engineer | Full Stack Engineer from India</h3>
 
-- 🔭 I’m currently working on [BookMyShow(BackEnd)](https://github.com/kranthikumar786/Book-My-Show)
+- 🔭 I’m currently working on  Personal Project called [BookMyShow(BackEnd)](https://github.com/kranthikumar786/Book-My-Show)
 
 - 🌱 I’m currently learning **Low Level Design for BookMyShow/others**
 
