@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on  Personal Project called [BookMyShow(BackEnd)](https://github.com/kranthikumar786/Book-My-Show)
 
--  The following SKILLS i have cleared & Certified by industry experts (Interviewers from Microsoft, MakemyTrip companies) at Scaler 
+-  I have been certified in the following skills by industry experts, including interviewers from companies like Microsoft and MakeMyTrip, through Scaler 
      -  Data Structures&Algorithms (https://moonshot.scaler.com/s/sl/6FmeUpCpQG)
      - Java (https://moonshot.scaler.com/s/sl/wb6Pz9ZTa1) 
      - backend(java spring/springboot) (https://moonshot.scaler.com/s/sl/EfYfTiYac1)
