@@ -3,14 +3,15 @@
 
 - 🔭 I’m currently working on  Personal Project called [BookMyShow(BackEnd)](https://github.com/kranthikumar786/Book-My-Show)
 
-- 🌱 I’m currently learning **Low Level Design for BookMyShow/others**
 -  The following SKILLS i have cleared & Certified by industry experts (Interviewersfrom Microsoft, MakemyTrip companies) at Scaler 
      -  Data Structures&Algorithms (https://moonshot.scaler.com/s/sl/6FmeUpCpQG)
-
+     - Java (https://moonshot.scaler.com/s/sl/wb6Pz9ZTa1) 
+     - backend(java spring/springboot) (https://moonshot.scaler.com/s/sl/EfYfTiYac1)
+     - Low Level Design (https://moonshot.scaler.com/s/sl/f8M8o-dxz9)
 
 - 📝 I regularly write articles on [DSA & Problem Solving]
 
-- 💬 Ask me about **Chess, DSA,LLD,HLD**
+- 💬 Let's Talk  about **Chess, DSA,LLD,HLD,Sports**
 
 - 📫 How to reach me **onlincecourses143@gmail.com**
 
