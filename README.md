@@ -9,7 +9,7 @@
 
 - 📝 I do write articles on [DSA & Problem Solving] at Medium(https://medium.com/@onlinecourses143)
 
-- 💬 Let's Talk  about **Chess, DSA,LLD,HLD,Sports**
+- 💬 Let's Talk  about **Chess, DSA,LLD,HLD,Running, Trekking**
 
 - 📫 How to reach me **onlincecourses143@gmail.com**
 
