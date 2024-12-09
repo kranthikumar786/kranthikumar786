@@ -6,6 +6,7 @@
      - Java (https://moonshot.scaler.com/s/sl/wb6Pz9ZTa1) 
      - backend(java spring/springboot) (https://moonshot.scaler.com/s/sl/EfYfTiYac1)
      - Low Level Design (https://moonshot.scaler.com/s/sl/f8M8o-dxz9)
+     - Databases and SQL (https://moonshot.scaler.com/s/sl/8GqBz0ItZM)
 
 - 📝 I do write articles on [DSA & Problem Solving] at Medium(https://medium.com/@onlinecourses143)
 
